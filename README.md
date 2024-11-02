@@ -9,6 +9,7 @@ El test implementa un "monkey testing".
 
 - **Node.js** (v14 o superior)
 - **npm**
+- **Cypress**
 
 ## Instalación
 
