@@ -12,8 +12,8 @@ Este proyecto realiza pruebas automatizadas en la página "Los Estudiantes" usan
 1. **Clonar el Repositorio** (opcional)
    Abre una terminal y clona el repositorio desde GitHub:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+   git clone [<URL_DEL_REPOSITORIO>](https://github.com/JUANES545/Monkey-Testing.git)
+   cd Monkey_Testing
 
 
 ## Abrir Cypress
