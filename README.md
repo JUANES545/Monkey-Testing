@@ -18,11 +18,4 @@ Este proyecto realiza pruebas automatizadas en la página "Los Estudiantes" usan
 
 ## Abrir Cypress
 1. Para abrir la interfaz gráfica de Cypress, ejecuta:
-
-```zsh
-npx cypress open
-```
-
-2. Seleccionar la Prueba En la interfaz de Cypress.
-3. verás una lista de pruebas.
-4. Haz clic en **monkey_testing.cy.js** para ejecutar el test de monkey testing.
+ssh-keygen -lf ~/.ssh/id_ed25519_personal.pub
