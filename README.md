@@ -1,7 +1,7 @@
 # Proyecto de Pruebas Automáticas con Cypress
 
 ## Descripción
-Este proyecto realiza pruebas automatizadas en la página "Los Estudiantes" usando Cypress. El test implementa un "monkey testing".
+Este proyecto realiza pruebas automatizadas en la página [Los Estudiantes]("https://losestudiantes.co/") usando Cypress. El test implementa un "monkey testing".
 
 ## Requisitos
 - **Node.js** (v14 o superior)
